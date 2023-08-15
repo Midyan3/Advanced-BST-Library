@@ -57,14 +57,17 @@ int main() {
 
 ```
 # Requirements
--`C++` compiler with support for C++11 or later.
 
--`Employee class`, if you wish to utilize the getDirectSupervisor method.
+- `C++` compiler with support for C++11 or later.
+
+- `Employee class`, if you wish to utilize the getDirectSupervisor method.
 
 # Contributors
--Feel free to contribute to this project. Open an issue or pull request.
+
+- Feel free to contribute to this project. Open an issue or pull request.
 
 # License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
