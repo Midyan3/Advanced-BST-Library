@@ -66,9 +66,6 @@ int main() {
 
 - Feel free to contribute to this project. Open an issue or pull request.
 
-# License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
 
